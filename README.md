@@ -1,0 +1,2 @@
+# linearregression
+Linear Regression Study
